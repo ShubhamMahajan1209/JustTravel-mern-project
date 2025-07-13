@@ -18,7 +18,7 @@ Welcome to **JustTravel**, a travel listing platform hosted at [https://justtrav
 
 ## 🧰 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (Vanilla or templating engine if used)
+- **Frontend**: HTML, CSS, JavaScript, EJS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: Passport.js (local strategy)
